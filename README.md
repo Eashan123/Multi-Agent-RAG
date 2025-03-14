@@ -14,13 +14,13 @@ The system integrates:
 - Docker Containerization & Deployment on GCP.
 
 Features
-✅ Conversational Retrieval Chain using LangChain.
-✅ Multi-Agent LLM Routing based on query intent.
-✅ Document Chunking & Vector Search for efficient retrieval.
-✅ Cross-Encoder-Based Reranking for improved precision.
-✅ Toxicity & Off-Topic Classification to ensure query relevance.
-✅ Comprehensive Observability & Logging for debugging & auditing.
-✅ Containerized Deployment with Docker for easy scalability.
+- Conversational Retrieval Chain using LangChain.
+- Multi-Agent LLM Routing based on query intent.
+- Document Chunking & Vector Search for efficient retrieval.
+- Cross-Encoder-Based Reranking for improved precision.
+- Toxicity & Off-Topic Classification to ensure query relevance.
+- Comprehensive Observability & Logging for debugging & auditing.
+- Containerized Deployment with Docker for easy scalability.
 
 ## Tech Stack
 - Programming Language: Python
