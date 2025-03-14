@@ -1,0 +1,103 @@
+{
+  "date": "2025-03-12 14:32:37",
+  "session_id": "31de81d7-2305-46c4-9b2c-3b067b751a71",
+  "employee_id": "j189",
+  "employee_name": "Jina",
+  "email": "jina@gmail.com",
+  "selected_area": "Products/Employees",
+  "model_used": "gpt-4o-mini",
+  "interactions": [
+    {
+      "query": "What is birth date of the employee Samuel Trenton?",
+      "response": "I'm sorry, but I don't have any information about an employee named Samuel Trenton. If you have any other questions or need assistance with something else, feel free to ask!",
+      "model_used": "gpt-4o-mini",
+      "cost": 0.028679999999999997,
+      "token_usage": {
+        "prompt_tokens": 920,
+        "completion_tokens": 36,
+        "total_tokens": 956
+      },
+      "response_time": 90.01397609998821,
+      "top_source_docs": [
+        "# HR Record\n\n# Emily Carter\n\n## Summary\n- **Date of Birth:** August 12, 1990  \n- **Job Title:** Account Executive  \n- **Location:** Austin, Texas  \n\n## Insurellm Career Progression\n- **2021-Present:** Account Executive  \n  - Responsibilities include managing a portfolio of B2B clients, conducting sales presentations, and ensuring customer satisfaction.  \n  - Achievements: \n    - Exceeded annual sales target by 30% in 2022.\n    - Instrumental in acquiring 15 new corporate clients in half a year.\n  \n- **2019-2021:** Sales Coordinator  \n  - Supported the sales team with administrative tasks, lead generation, and customer follow-ups.\n  - Achievements:\n    - Implemented a new lead tracking system that improved workflow efficiency by 25%.  \n    - Received \"Employee of the Month\" award twice for outstanding contribution to team goals.",
+        "# Samantha Greene\n\n## Summary\n- **Date of Birth:** October 14, 1990\n- **Job Title:** HR Generalist\n- **Location:** Denver, Colorado\n\n## Insurellm Career Progression\n- **2020** - Joined Insurellm as a HR Coordinator\n  - Responsibilities included assisting with recruitment processes and managing employee onboarding.\n- **2021** - Promoted to HR Generalist\n  - Transitioned to a role with expanded responsibilities, including handling employee relations and benefits administration.\n- **2022** - Completed the HR Leadership Development Program\n  - Enhanced skills in conflict resolution and strategic planning.\n- **2023** - Actively involved in initiating the company\u2019s Diversity and Inclusion programs.\n  - Samantha Greene played a key role in launching mentorship initiatives and employee resource groups.",
+        "# HR Record\n\n# Maxine Thompson\n\n## Summary\n- **Date of Birth:** January 15, 1991  \n- **Job Title:** Data Engineer  \n- **Location:** Austin, Texas",
+        "# HR Record\n\n# Alex Harper\n\n## Summary\n- **Date of Birth**: March 15, 1993  \n- **Job Title**: Sales Development Representative (SDR)  \n- **Location**: Denver, Colorado  \n\n## Insurellm Career Progression\n- **July 2021**: Joined Insurellm as a Sales Development Representative, focusing on lead generation and nurturing B2B relationships.  \n- **January 2022**: Promoted to Senior Sales Development Representative due to exceptional performance in converting leads into clients.  \n- **October 2022**: Completed an Internal Leadership Training Program, enhancing skills in team collaboration and strategic selling. Currently mentoring junior SDRs.  \n- **April 2023**: Became involved in a cross-departmental project to streamline the customer onboarding process, showcasing initiative and leadership.",
+        "# HR Record\n\n# Jordan Blake\n\n## Summary\n- **Date of Birth:** March 15, 1993  \n- **Job Title:** Sales Development Representative (SDR)  \n- **Location:** Austin, Texas  \n\n## Insurellm Career Progression\n- **2021-06:** Joined Insurellm as an Entry-Level SDR  \n- **2022-02:** Promoted to Junior SDR after exceeding quarterly targets by 25%  \n- **2022-12:** Recognized as SDR of the Month for three consecutive months  \n- **2023-05:** Participated in the Insurellm Leadership Training Program"
+      ]
+    },
+    {
+      "query": "Tell me about Emily Carter?",
+      "response": "I cannot help you with this request as the request is off topic.",
+      "model_used": "gpt-4o-mini",
+      "cost": 0.0,
+      "token_usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      },
+      "response_time": 1.515247500006808,
+      "top_source_docs": []
+    },
+    {
+      "query": "Tell me about the employee Emily Carter?",
+      "response": "I don't have specific information about an employee named Emily Carter. However, I can provide details about Emily Tran, who is a valuable asset to Insurellm. Would you like to know more about her?",
+      "model_used": "gpt-4o-mini",
+      "cost": 0.03129,
+      "token_usage": {
+        "prompt_tokens": 1000,
+        "completion_tokens": 43,
+        "total_tokens": 1043
+      },
+      "response_time": 5.78078650002135,
+      "top_source_docs": [
+        "Emily Carter exemplifies the kind of talent that drives Insurellm's success and is an invaluable asset to the company.",
+        "- **Professional Development Goals**:  \n  - Emily Tran aims to become a Marketing Manager within the next two years, focusing on leading larger campaigns and developing junior team members.\n\n- **Hobbies**:  \n  - Emily enjoys photography and regularly contributes to Insurellm's social media content with her own high-quality images.\n  - She is also passionate about sustainability and organizes monthly team volunteer events for environmental awareness. \n\n---\n\nEmily Tran continues to be a valuable asset to Insurellm, driving innovative marketing strategies that resonate with a diverse customer base. Her contributions have significantly enhanced the company's branding and customer outreach efforts.",
+        "## Compensation History\n| Year | Base Salary | Bonus         | Total Compensation |\n|------|-------------|---------------|--------------------|\n| 2023 | $70,000     | $10,000       | $80,000            |\n| 2022 | $65,000     | $8,000        | $73,000            |\n| 2021 | $60,000     | $5,000        | $65,000            |\n\n## Other HR Notes\n- **Professional Development:** Emily is currently enrolled in a leadership training program to enhance her management skills and aims to move into a senior account role within the next 2 years.  \n- **Volunteer Work:** Actively participates in community outreach programs, representing Insurellm in charity events to promote corporate social responsibility.  \n- **Interests:** In her spare time, Emily enjoys hiking, photography, and volunteering at local animal shelters.  \n- **Team Feedback:** Colleagues describe Emily as a highly motivated team player who consistently uplifts everyone around her.",
+        "- **2021**:  \n  - Performance Rating: Meets Expectations  \n  - Key Achievements: Contributed to the launch of a customer referral program that resulted in a 15% growth in B2C customers.\n\n---\n\n## Compensation History\n- **2023**:  \n  - Base Salary: $75,000  \n  - Bonus: $10,000 for exceeding annual targets.\n\n- **2022**:  \n  - Base Salary: $70,000  \n  - Bonus: $5,000 for achieving marketing milestones.\n\n- **2021**:  \n  - Base Salary: $67,500  \n  - No bonus due to reallocation of marketing funds during the pandemic.\n\n---\n\n## Other HR Notes\n- **Training Completed**:  \n  - Advanced Digital Marketing Workshop (2021)  \n  - Analytics and Reporting in Digital Advertising (2022)\n\n- **Professional Development Goals**:  \n  - Emily Tran aims to become a Marketing Manager within the next two years, focusing on leading larger campaigns and developing junior team members.",
+        "- **January 2017 - May 2018**: Marketing Intern  \n  - Supported the Marketing team by collaborating on content creation and digital advertising projects.\n  - Gained hands-on experience with marketing automation tools, enriching her skillset for her role in Insurellm.\n\n---\n\n## Annual Performance History\n- **2023**:  \n  - Performance Rating: Exceeds Expectations  \n  - Key Achievements: Led the \"Tech the Halls\" campaign that resulted in a 50% increase in leads during the holiday season. \n  - Emily Tran's innovative strategies and attention to detail have made her stand out among her peers.\n\n- **2022**:  \n  - Performance Rating: Meets Expectations  \n  - Key Achievements: Enhanced Insurellm's email marketing strategy, achieving a 25% open rate increase.\n\n- **2021**:  \n  - Performance Rating: Meets Expectations  \n  - Key Achievements: Contributed to the launch of a customer referral program that resulted in a 15% growth in B2C customers.\n\n---"
+      ]
+    },
+    {
+      "query": "Yes please",
+      "response": "I'm glad to assist! Emily Tran is a Digital Marketing Specialist at Insurellm, where she has been pivotal in enhancing the company's online presence through targeted social media campaigns and SEO strategies. She has a strong focus on professional development, aiming to become a Marketing Manager within the next two years.\n\nIn addition to her professional achievements, Emily enjoys photography and contributes high-quality images to Insurellm's social media content. She is also passionate about sustainability and organizes monthly team volunteer events for environmental awareness.\n\nIf you have any specific questions or need further details, feel free to ask!",
+      "model_used": "gpt-4o-mini",
+      "cost": 0.03225,
+      "token_usage": {
+        "prompt_tokens": 958,
+        "completion_tokens": 117,
+        "total_tokens": 1075
+      },
+      "response_time": 5.411051300005056,
+      "top_source_docs": [
+        "- **Professional Development Goals**:  \n  - Emily Tran aims to become a Marketing Manager within the next two years, focusing on leading larger campaigns and developing junior team members.\n\n- **Hobbies**:  \n  - Emily enjoys photography and regularly contributes to Insurellm's social media content with her own high-quality images.\n  - She is also passionate about sustainability and organizes monthly team volunteer events for environmental awareness. \n\n---\n\nEmily Tran continues to be a valuable asset to Insurellm, driving innovative marketing strategies that resonate with a diverse customer base. Her contributions have significantly enhanced the company's branding and customer outreach efforts.",
+        "# HR Record\n\n# Emily Tran\n\n## Summary\n- **Date of Birth:** March 18, 1991  \n- **Job Title:** Digital Marketing Specialist  \n- **Location:** San Francisco, CA  \n\n---\n\n## Insurellm Career Progression\n- **February 2020 - Present**: Digital Marketing Specialist  \n   - Emily Tran has been pivotal in enhancing Insurellm's online presence through targeted social media campaigns and SEO strategies.\n   - Successfully managed a team of interns for the 'Spring Into Safety' initiative, increasing customer engagement by 35%.\n\n- **June 2018 - January 2020**: Marketing Coordinator  \n  - Assisted in the development and execution of marketing campaigns to promote Insurellm's products.\n  - Collected and analyzed data on customer demographics to inform Insurellm\u2019s marketing strategies.",
+        "- **January 2017 - May 2018**: Marketing Intern  \n  - Supported the Marketing team by collaborating on content creation and digital advertising projects.\n  - Gained hands-on experience with marketing automation tools, enriching her skillset for her role in Insurellm.\n\n---\n\n## Annual Performance History\n- **2023**:  \n  - Performance Rating: Exceeds Expectations  \n  - Key Achievements: Led the \"Tech the Halls\" campaign that resulted in a 50% increase in leads during the holiday season. \n  - Emily Tran's innovative strategies and attention to detail have made her stand out among her peers.\n\n- **2022**:  \n  - Performance Rating: Meets Expectations  \n  - Key Achievements: Enhanced Insurellm's email marketing strategy, achieving a 25% open rate increase.\n\n- **2021**:  \n  - Performance Rating: Meets Expectations  \n  - Key Achievements: Contributed to the launch of a customer referral program that resulted in a 15% growth in B2C customers.\n\n---",
+        "- **2021**:  \n  - Performance Rating: Meets Expectations  \n  - Key Achievements: Contributed to the launch of a customer referral program that resulted in a 15% growth in B2C customers.\n\n---\n\n## Compensation History\n- **2023**:  \n  - Base Salary: $75,000  \n  - Bonus: $10,000 for exceeding annual targets.\n\n- **2022**:  \n  - Base Salary: $70,000  \n  - Bonus: $5,000 for achieving marketing milestones.\n\n- **2021**:  \n  - Base Salary: $67,500  \n  - No bonus due to reallocation of marketing funds during the pandemic.\n\n---\n\n## Other HR Notes\n- **Training Completed**:  \n  - Advanced Digital Marketing Workshop (2021)  \n  - Analytics and Reporting in Digital Advertising (2022)\n\n- **Professional Development Goals**:  \n  - Emily Tran aims to become a Marketing Manager within the next two years, focusing on leading larger campaigns and developing junior team members.",
+        "Emily Carter exemplifies the kind of talent that drives Insurellm's success and is an invaluable asset to the company."
+      ]
+    },
+    {
+      "query": "What is her date of birth?",
+      "response": "I cannot help you with this request as the request is off topic.",
+      "model_used": "gpt-4o-mini",
+      "cost": 0.0,
+      "token_usage": {
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      },
+      "response_time": 1.4757277000171598,
+      "top_source_docs": []
+    }
+  ],
+  "total_queries": 5,
+  "unsafe_inputs": 2,
+  "error_count": 1,
+  "total_response_time": 104.19678910003859,
+  "total_cost": 0.09222,
+  "session_length": 248.8706431388855,
+  "average_response_time": 20.839357820007717,
+  "error_rate": 0.2,
+  "unsafe_input_percentage": 0.4
+}
