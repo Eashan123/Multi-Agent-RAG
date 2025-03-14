@@ -37,7 +37,7 @@ Features
 
 ## Installation & Setup
 1. Clone the Repository
-git clone https://github.com/yourusername/GenAI-RAG-Reranker.git
+git clone https://github.com/yourusername/Multi-Agent-RAG.git
 
 cd GenAI-RAG-Reranker
 
